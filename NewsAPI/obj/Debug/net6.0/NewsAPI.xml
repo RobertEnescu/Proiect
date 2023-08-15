@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NewsAPI</name>
+    </assembly>
+    <members>
+        <member name="M:NewsAPI.Controllers.AnnouncementController.GetAnnouncements">
+            <summary>
+            this is another summary
+            </summary>
+            <returns>Ok</returns>
+        </member>
+        <member name="M:NewsAPI.Controllers.AnnouncementController.CreateAnnouncement(NewsAPI.Models.Announcement)">
+            <summary>
+            this is third summary
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NewsAPI.Controllers.AnnouncementController.UpdateAnnouncement(NewsAPI.Models.Announcement,System.Guid)">
+            <summary>
+            carti opium
+            </summary>
+            <param name="announcement"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NewsAPI.Controllers.AnnouncementController.DeleteAnnouncement(System.Guid)">
+            <summary>
+            kekw /j
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NewsAPI.Controllers.CategoryController.GetAll">
+            <summary>
+            Get all of the categories.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NewsAPI.Controllers.CategoryController.GetCategoryById(System.Int32)">
+            <summary>
+            Get a specific category via its id.
+            </summary>
+            <param name="categoryId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NewsAPI.Controllers.CategoryController.DeleteCategoryById(System.Int32)">
+            <summary>
+            Deletes a category via a category id.
+            </summary>
+            <param name="categoryId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

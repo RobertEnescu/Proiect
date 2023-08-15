@@ -1,0 +1,20 @@
+<div class="button-container">
+  <div *ngFor="let currentCategory of listOfCategories">
+    <button
+      class="button"
+      mat-raised-button
+      color="primary"
+      (click)="selectCategory(currentCategory)"
+    >
+      {{ currentCategory }}
+    </button>
+  </div>
+  <button
+    class="button:last-child"
+    mat-raised-button
+    color="warn"
+    (click)="resetFilters()"
+  >
+    Reset Filters
+  </button>
+</div>

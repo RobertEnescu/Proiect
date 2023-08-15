@@ -1,0 +1,127 @@
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/NewsAPI.exe
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/NewsAPI.deps.json
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/NewsAPI.runtimeconfig.json
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/NewsAPI.dll
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/NewsAPI.pdb
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.csproj.AssemblyReference.cache
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.AssemblyInfoInputs.cache
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.AssemblyInfo.cs
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.csproj.CoreCompileInputs.cache
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.NewsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.NewsAPI.props
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.NewsAPI.props
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.NewsAPI.props
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/scopedcss/bundle/NewsAPI.styles.css
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.csproj.CopyComplete
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.dll
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/refint/NewsAPI.dll
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.pdb
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.genruntimeconfig.cache
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/ref/NewsAPI.dll
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/NewsAPI.xml
+C:/Users/alexa/source/repos/NewsAPI/obj/Debug/net6.0/NewsAPI.xml
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/System.Web.Http.dll
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/alexa/source/repos/NewsAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/appsettings.json
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/NewsAPI
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/NewsAPI.deps.json
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/NewsAPI.runtimeconfig.json
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/NewsAPI.dll
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/NewsAPI.pdb
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/NewsAPI.xml
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/System.Web.Http.dll
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/robertenescu/Downloads/NewsAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.csproj.AssemblyReference.cache
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.AssemblyInfoInputs.cache
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.AssemblyInfo.cs
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.csproj.CoreCompileInputs.cache
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.NewsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.NewsAPI.props
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.NewsAPI.props
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.NewsAPI.props
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/scopedcss/bundle/NewsAPI.styles.css
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.csproj.CopyComplete
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.dll
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/refint/NewsAPI.dll
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.xml
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.pdb
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/NewsAPI.genruntimeconfig.cache
+/Users/robertenescu/Downloads/NewsAPI/obj/Debug/net6.0/ref/NewsAPI.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/appsettings.json
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/NewsAPI
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/NewsAPI.deps.json
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/NewsAPI.runtimeconfig.json
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/NewsAPI.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/NewsAPI.pdb
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/NewsAPI.xml
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/System.Web.Http.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.csproj.AssemblyReference.cache
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.AssemblyInfoInputs.cache
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.AssemblyInfo.cs
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.csproj.CoreCompileInputs.cache
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.NewsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.NewsAPI.props
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.NewsAPI.props
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.NewsAPI.props
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/scopedcss/bundle/NewsAPI.styles.css
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.csproj.CopyComplete
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/refint/NewsAPI.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.xml
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.pdb
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/NewsAPI.genruntimeconfig.cache
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/obj/Debug/net6.0/ref/NewsAPI.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/AWSSDK.Core.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/AWSSDK.SecurityToken.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/DnsClient.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/MongoDB.Bson.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/MongoDB.Driver.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/SharpCompress.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/Snappier.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/ZstdSharp.dll
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/robertenescu/Desktop/Facultate/Anul 2/Sem 2/BRTA/NewsAPI/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll

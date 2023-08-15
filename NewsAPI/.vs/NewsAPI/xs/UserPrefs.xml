@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{1E3FF892-2AC5-4B80-9602-5BEC27F77BB3}|Default">
+  <MonoDevelop.Ide.ItemProperties.NewsAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Controllers/AnnouncementController.cs" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Settings/IMongoDBSettings.cs" />
+      <File FileName="Settings/MongoDBSettings.cs" />
+      <File FileName="Program.cs" Line="41" Column="1" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="appsettings.json" />
+      <File FileName="Controllers/CategoryController.cs" />
+      <File FileName="Services/IAnnouncementCollectionService.cs" />
+      <File FileName="Models/AnnouncementCollectionService.cs" />
+      <File FileName="Models/Announcement.cs" />
+      <File FileName="Services/ICollectionService.cs" />
+      <File FileName="Models/Category.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NewsAPI" expanded="True">
+            <Node name="NewsAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Settings" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

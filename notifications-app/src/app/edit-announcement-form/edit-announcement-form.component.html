@@ -1,0 +1,62 @@
+<div class="center">
+  <form class="addForm">
+    <mat-form-field class="matDesign">
+      <mat-label>Title</mat-label>
+      <input
+        matInput
+        placeholder="Title"
+        [(ngModel)]="title"
+        name="Title"
+        required
+      />
+    </mat-form-field>
+    <mat-form-field class="matDesign">
+      <mat-label>Author</mat-label>
+      <input
+        matInput
+        placeholder="Author"
+        [(ngModel)]="author"
+        name="Author"
+        required
+      />
+    </mat-form-field>
+    <mat-form-field class="matDesign">
+      <mat-label>Leave a message</mat-label>
+      <textarea
+        matInput
+        placeholder="Ex. It makes me feel..."
+        [(ngModel)]="message"
+        name="Message"
+        required
+      ></textarea>
+    </mat-form-field>
+    <mat-form-field class="matDesign">
+      <mat-label>ImageURL</mat-label>
+      <input
+        matInput
+        placeholder="Image URL:"
+        [(ngModel)]="imageUrl"
+        name="ImageURL"
+      />
+    </mat-form-field>
+    <mat-form-field appearance="fill" class="matDesign">
+      <mat-label>Category</mat-label>
+      <mat-select [(value)]="categorySelected">
+        <mat-option
+          *ngFor="let category of listOfCategories"
+          [value]="category"
+        >
+          {{ category }}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+    <div class="button-group">
+      <button mat-raised-button color="warn" (click)="onUpdateClick()">
+        Edit
+      </button>
+      <button mat-raised-button color="warn" [routerLink]="'/home'">
+        Cancel
+      </button>
+    </div>
+  </form>
+</div>

@@ -1,0 +1,33 @@
+<div class="container">
+  <div class="card">
+    <div class="card-header">
+      <img src="{{ announcement.imageUrl }}" alt="rover" />
+    </div>
+    <div class="card-body">
+      <span class="tag" [ngClass]="getTagClass(announcement.categoryId)">{{
+        announcement.categoryId
+      }}</span>
+      <h4>{{ announcement.title }}</h4>
+      <p>{{ announcement.message }}</p>
+      <div class="user">
+        <img
+          src="https://pbs.twimg.com/media/EbNX_erVcAUlwIx.jpg:large"
+          alt="user"
+        />
+        <div class="user-info">
+          <div class="user-info-header">
+            <h5>{{ announcement.author }}</h5>
+            <div class="buttons">
+              <button mat-icon-button color="warn" (click)="onEditClick()">
+                <mat-icon>edit</mat-icon>
+              </button>
+              <button mat-icon-button color="warn" (click)="onDeleteClick()">
+                <mat-icon>delete</mat-icon>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

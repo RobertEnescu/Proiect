@@ -1,0 +1,17 @@
+.button-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+  padding: 20px;
+  margin-left: -23px;
+}
+
+.button {
+  margin-right: 10px;
+}
+
+.button:last-child {
+  margin-right: 0;
+}
